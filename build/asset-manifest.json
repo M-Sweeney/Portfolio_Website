@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5adf31c7.css",
+    "main.js": "/static/js/main.7d440b98.js",
+    "static/media/AboutMe.jpeg": "/static/media/AboutMe.8edc7425da972e1eb104.jpeg",
+    "static/media/Tequila_mockingbird.png": "/static/media/Tequila_mockingbird.80f0b670882e1260b0a6.png",
+    "static/media/Weather2.png": "/static/media/Weather2.2ddffae64c181caf3e59.png",
+    "static/media/Duet1.png": "/static/media/Duet1.517745dc08a7ca3b877a.png",
+    "static/media/Duet2.png": "/static/media/Duet2.bb613aecb167aba631a2.png",
+    "index.html": "/index.html",
+    "main.5adf31c7.css.map": "/static/css/main.5adf31c7.css.map",
+    "main.7d440b98.js.map": "/static/js/main.7d440b98.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5adf31c7.css",
+    "static/js/main.7d440b98.js"
+  ]
+}

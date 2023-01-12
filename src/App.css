@@ -3,6 +3,10 @@ body{
   background-color: #D2E4D6;
 }
 
+.header{
+  padding: 1em;
+}
+
 .pagetitle{
   font-size: 50px;
   font-weight: bolder;
@@ -12,25 +16,39 @@ body{
   text-decoration: underline;
 }
 
-.role{
-  text-align: center;
-  margin: 2em;
-  margin-top: -2em;
-  font-size: 30px;
-  text-decoration: underline;
-}
-
 .nav{
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   position: absolute;
   right: 0;
   width: 50%;
   font-size: 20px;
   font-weight: 700;
   background-color: #005B41;
-  padding: .25em;
+  padding: .3em;
+  margin-top: .9em;
+}
 
+.title{
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  position: absolute;
+  left: 0;
+  width: 20%;
+  text-align: center;
+  margin-left: 3em;
+  border: solid black;
+}
+
+.name{
+  text-align: center;
+  font-size: 40px;
+}
+
+.role{
+  text-align: center;
+  font-size: 25px;
 }
 
 .nav a{
@@ -64,6 +82,10 @@ body{
   text-decoration: underline;
 }
 
+.porttitle:hover{
+  color: #0e76a8;
+}
+
 .portimg{
   max-width: 80%;
   max-height: 33%;
@@ -95,7 +117,7 @@ body{
 .aboutMeContent{
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 
 .aboutMeImg{
@@ -176,7 +198,7 @@ body{
 .socials{
   display: flex;
   flex-direction: row;
-  font-size: 40px;
+  font-size: 50px;
   gap: 1em;
 }
 
