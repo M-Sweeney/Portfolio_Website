@@ -11,12 +11,12 @@ export default function contact () {
         <p>Full Stack Software Engineer</p>
         <p>Chicago, IL</p>
         <p>609-675-6075</p>
-        <p>sweeney.matt93@gmail.com</p>
+        <p>hello@themattsweeney.com</p>
         <div className="socials">
         <a className="linkedin" href="https://www.linkedin.com/in/sweeney-matt/" target="_blank"><AiFillLinkedin/></a>
         <a className="github" href="https://github.com/M-Sweeney" target="_blank"><AiFillGithub/></a>
         </div>
-        <a className="email" href="mailto:sweeney.matt93@gmail.com?subject=Hello&body=Hello Matt!">Send Me an Email!</a>
+        <a className="email" href="mailto:hello@themattsweeney.com?subject=Hello&body=Hello Matt!">Send Me an Email!</a>
       </div>
     </div>
   );
