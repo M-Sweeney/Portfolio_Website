@@ -1,5 +1,4 @@
 import Duet from '../assets/Duet1.png'
-import Duet2 from '../assets/Duet2.png'
 import Teq from '../assets/Tequila_mockingbird.png'
 import Weather from '../assets/Weather2.png'
 

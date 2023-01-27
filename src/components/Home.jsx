@@ -11,7 +11,7 @@ export default function Home () {
     <h1 className="pagetitle">About Me</h1>
   <div className="aboutMeContent">
     <img className="aboutMeImg" src={AboutMe}/>
-    <p className="brandStatement">I am a highly motivated Software Engineer with a passion for problem-solving, I excel in developing creative solutions to complex challenges. In my free time, I enjoy sharing my knowledge with others and helping them achieve their goals. I am always seeking new opportunities for learning and growth, particularly in the field of front-end development. Through hands-on experience and practical examples, I am continuously striving to improve my skills and advance my career as a Software Engineer.</p>
+    <p className="brandStatement">I am a Software Engineer with a passion for problem-solving, I excel in developing creative solutions to complex challenges. In my free time, I enjoy sharing my knowledge with others and helping them achieve their goals. I am always seeking new opportunities for learning and growth, particularly in the field of front-end development. Through hands-on experience and practical examples, I am continuously striving to improve my skills and advance my career as a Software Engineer.</p>
   </div>
 </div>
   <h1 className="pagetitle">Skills</h1>
